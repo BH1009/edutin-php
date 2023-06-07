@@ -24,9 +24,9 @@ else{
 
 $preciofinal = $compra - ($compra * $descuento);
 
-echo('Hola ' . $nombre . " el valor de tu compra es " . $compra . "$ y con desceunto " . $preciofinal . "$");
+echo('Hola ' . $nombre . " el valor de tu compra es " . $compra . "$ y con descuento " . $preciofinal . "$");
 
-//Hola Juan Pablo el valor de tu compra es 55$ y con desceunto 49.5$
-//Hola Kenia Ortiz el valor de tu compra es 129$ y con desceunto 116.1$
-//Hola Angie Andrade el valor de tu compra es 275$ y con desceunto 247.5$
-//Hola Eva Castro el valor de tu compra es 350$ y con desceunto 315$
+//Hola Juan Pablo el valor de tu compra es 55$ y con descuento 49.5$
+//Hola Kenia Ortiz el valor de tu compra es 129$ y con descuento 116.1$
+//Hola Angie Andrade el valor de tu compra es 275$ y con descuento 247.5$
+//Hola Eva Castro el valor de tu compra es 350$ y con descuento 315$
