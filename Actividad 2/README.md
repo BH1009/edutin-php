@@ -53,3 +53,11 @@ Observa el siguiente instructivo, donde se explicara el porqué, el cómo y el p
  
 
 Por último, recuerde que una vez realice la actividad, usted deberá anexar su código en la opción "Suba su respuesta aquí". 
+
+El factorial de el numero 5 es 120
+
+El factorial de el numero 10 es 3628800
+
+El factorial de el numero 15 es 1307674368000
+
+El factorial de el numero 20 es 2432902008176640000
