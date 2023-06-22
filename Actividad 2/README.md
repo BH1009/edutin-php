@@ -30,27 +30,24 @@ Observa el siguiente instructivo, donde se explicara el porqué, el cómo y el p
 
  
 
-1. Ingrese a Visual Studio Code y en la carpeta “Actividades” cree un nuevo archivo con el nombre “actividad_ciclos.php”.
+1. Ingrese a Visual Studio Code y en la carpeta “Actividades” cree un nuevo archivo con el nombre **“actividad_ciclos.php”.**
 
  
 
 2. Define la variable $numero, la cual almacenará los números dados en el problema. Después crea otra variable llamada $factorial inicializada con el número 1.
 
- 
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/gcNocfjDVr/archivo.png)
+
  
 
 3. Cree el ciclo for con la variable iteradora $x inicializada en 1, el ciclo se repetirá mientras $x sea menor o igual a $número e  incremente el ciclo con $x++.
 
  
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/soqOAaeJ8m/archivo.png)
- 
+
 
 4. Imprima el resultado
 
  
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/d41DPzEhV3/archivo.png)
- 
+
 
 Por último, recuerde que una vez realice la actividad, usted deberá anexar su código en la opción "Suba su respuesta aquí". 
 

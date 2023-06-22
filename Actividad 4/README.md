@@ -28,7 +28,8 @@ Por ejemplo:
  
 
 Lunes: Tienes rutina de Pecho, Espalda y Hombros.
-Cómo empezar
+
+## Cómo empezar
 
 Observa el siguiente instructivo, donde se explicara el porqué, el cómo y el paso a paso de cada línea de código que escribirás:
 
@@ -41,19 +42,14 @@ Observa el siguiente instructivo, donde se explicara el porqué, el cómo y el p
 2. Cree un arreglo con el nombre $rutinas el cual será igual a array().
 
  
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/Y3HHOVOtPt/archivo.png)
- 
 
 3. Defina el día de la semana como una clave y los ejercicios como los valores.
 
  
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/PYRra3RAr2/archivo.png)
- 
 
 4. Imprima los resultados
 
- 
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/XRFnzUipoV/archivo.png)
+
  
 
 Por último, recuerde que una vez realice la actividad, usted deberá anexar su código en la opción **"Suba su respuesta aquí".** 

@@ -26,26 +26,19 @@ Observa el siguiente instructivo, donde se explicara el porqué, el cómo y el p
 
  
 
-1. Ingrese a Visual Studio Code y en la carpeta “Actividades” cree un nuevo archivo con el nombre “actividad_funciones.php”.
+1. Ingrese a Visual Studio Code y en la carpeta “Actividades” cree un nuevo archivo con el nombre **“actividad_funciones.php”.**
 
  
 
 2. Cree una función llamada check_vote y como parámetros tendrá $nombre y $edad.
-
- 
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/FqCYnoy1cT/archivo.png)
  
 
 3. Dentro de la función coloque la condición para verificar si el estudiante tiene más de 18 años, en caso de ser afirmativo imprima el resultado con el nombre y el mensaje: “puedes votar”, caso contrario imprima “no puedes votar”.
 
  
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/ERyT1QoHxv/archivo.png)
- 
 
 4. Invoque la función y pase como argumentos el nombre y la edad del estudiante.
 
- 
-![](https://edutin-publico.s3.amazonaws.com/documents/documents/c6eVKQf0UX/archivo.png)
  
 
 Por último, recuerde que una vez realice la actividad, usted deberá anexar su código en la opción "Suba su respuesta aquí".
