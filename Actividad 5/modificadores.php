@@ -1,9 +1,18 @@
 <?php
+/*
+Modificadores 
+
+public - se puede acceder desde un objeto o una clase
+protected - se puede acceder unicamente desde la clase
+private - se pude acceder unicamente por la clase que lo contiene
+*/
+
 
 //Clase padre
 class SeleccionFutbol{
     public $id;
-    public $nombre;
+    //1 public $nombre;
+    //2 protected $nombre;
     public $edad;
 
     public function __construct($id, $nombre, $edad)
@@ -19,6 +28,19 @@ class SeleccionFutbol{
 
     public function viajar(){
         echo "$this->nombre esta viajando";
+    }
+
+    // 3
+    // private function getNombre(){
+    //     return $this->nombre;
+    // }
+
+    public function getNombre(){
+        return $this->nombre;
+    }
+
+    public function setNombre($nombre){
+        $this->nombre = $nombre;
     }
 }
 
@@ -70,5 +92,16 @@ $seleccion1 = new SeleccionFutbol(1, "Mexico", 120);
 $jugador1 = new Jugador(1, "Hernandez", 22, "Defensa", 14);
 $entrenador1 = new Entrenandor(1, "Lozano", 37, 8);
 
+//1 Acceder desde el objeto 
+//echo $jugador1->nombre;
 
 
+// echo "\n";
+//2 Acceso desde la clase
+// echo $jugador1->getNombre();
+// echo "\n";
+// echo $jugador1->setNombre("Brayan");
+// echo "\n";
+// echo $jugador1->getNombre();
+
+echo $seleccion1->getNombre();
